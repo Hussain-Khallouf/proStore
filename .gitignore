@@ -5,6 +5,6 @@
 
 *.txt
 
-!media/*
+media/*
 
 !.gitignore
